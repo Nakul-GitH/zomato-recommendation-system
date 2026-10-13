@@ -1,0 +1,20 @@
+
+# Virtual environment
+myenv/
+
+# Original dataset
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Operating system files
+.DS_Store
+Thumbs.db
